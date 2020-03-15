@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #fff;
+}
+.header{
+    max-width: 1140px;
+    height: 49px;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.logo{
+    width: 170px;
+    color: #1b3bde;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-right: 100px;
+
+    float: left;
+}
+.logo img{
+    background-color: #1b3bde;
+    padding: 12px 15px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 13px;
+}
+.logo-h2{
+    padding-top: 8px;
+    font-size: 14.55px;
+}
+.logo-h1{
+    font-size: 20.21px;
+}
+/* end logo */
+.menu{
+    float: left;
+    margin-top: 20px;
+    font-size: 13px;
+    font-weight: 800;
+}
+.menu a{
+    color: #000000;
+    padding: 10px 22px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.menu a:hover{
+    color: #fff;
+    padding: 10px 22px;
+    background-color: #000000;
+    border-radius: 5px;
+}
+/* end menu */
+.telephone{
+    font-size: 15px;
+    font-weight: 800;
+    float: right;
+    margin-top: 20px;
+}
+/* end telephone */
